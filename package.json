@@ -5,7 +5,7 @@
   "author": "xlaoyu <frank_yll@163.com>",
   "repository": {
     "type": "github",
-    "url": ""
+    "url": "https://github.com/Yuliang-Lee/element2-fontawesome5"
   },
   "scripts": {
     "dev": "node build/dev-server.js",
